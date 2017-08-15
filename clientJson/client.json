@@ -1,0 +1,14 @@
+﻿[
+  { "id": 1, "first_name": "John", "last_name": "Tyrome", "dob": "09/15/1976", "height": "6'1","weight": 150,"gender" :  "male"  },
+  { "id": 2, "first_name": "Pope", "last_name": "Jacobs", "dob": "05/01/1966" , "height": "5'9","weight": 130,"gender" :  "male"  },
+  { "id": 3, "first_name": "Leo", "last_name": "Martin", "dob": "03/09/1976" , "height": "4'11","weight": 160,"gender" :  "male"  },
+  { "id": 4, "first_name": "Tim", "last_name": "Smith", "dob": "05/16/1978" , "height": "4'9","weight": 140,"gender" :  "male"  },
+  { "id": 5, "first_name": "Rick", "last_name": "Obrien", "dob": "06/13/1965" , "height": "5'11","weight": 180,"gender" :  "male"  },
+  { "id": 6, "first_name": "Jon", "last_name": "Charles", "dob": "09/11/1969" , "height": "5'11","weight": 150,"gender" :  "male"  },
+  { "id": 7, "first_name": "Joanne", "last_name": "Roberts", "dob": "01/01/1974", "height": "3'11","weight": 210,"gender" :  "female"   },
+  { "id": 8, "first_name": "Mary", "last_name": "Peters", "dob": "04/19/1955", "height": "5'1","weight": 250,"gender" :  "female"   },
+  { "id": 9, "first_name": "Jane", "last_name": "Baker", "dob": "02/01/1944" , "height": "4'11","weight": 170,"gender" :  "female"  },
+  { "id": 10, "first_name": "Van", "last_name": "Tommen", "dob": "03/31/1938" , "height": "4'11","weight": 180,"gender" :  "male"  },
+  { "id": 11, "first_name": "Bobby", "last_name": "Parlor", "dob": "07/31/1963" , "height": "5'10","weight": 140,"gender" :  "male"  },
+  { "id": 12, "first_name": "Carol", "last_name": "Johnson", "dob": "02/01/1977" , "height": "5'9","weight": 190,"gender" :  "female"  }
+]

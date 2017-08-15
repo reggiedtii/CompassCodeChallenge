@@ -1,0 +1,25 @@
+﻿<!doctype html>
+<html lang="en" >
+<head>
+    <meta charset="utf-8">
+    <title>Search Sort and Pagination in Angular js</title>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap-theme.min.css">
+    <link href="css/angular-bootstrap-datepicker.css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+  </head>
+  <body  ng-app="angularTable" >
+	<div role="main" class="container theme-showcase" ng-controller="listdata">
+        <div class="page-header">
+            <h2 id="tables">Clients</h2>
+        </div>
+        <ng-view></ng-view>
+    </div>
+
+    <script src="Scripts/angular.js"></script>  
+    <script src="Scripts/angular-route.js"></script> 
+    <script src="lib/dirPagination.js"></script> 
+    <script src="app/app.js"></script>
+
+  </body>
+</html>
